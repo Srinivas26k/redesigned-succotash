@@ -1,8 +1,9 @@
 Here’s a detailed `README.md` file for your **StudyBuddy AI** Discord bot, structured step-by-step for easy setup and use:
 
 ---
-(#https://discord.gg/KNYetyMw)
-# StudyBuddy AI 
+
+
+# [StudyBuddy AI](#https://discord.gg/KNYetyMw)
 
 StudyBuddy AI is a powerful Discord bot designed to assist students, researchers, coders, freelancers, and content creators with various tasks using AI-powered responses. It integrates both local and cloud-based AI models, offering quick answers, deep analyses, and GitHub functionality directly within Discord.
 
